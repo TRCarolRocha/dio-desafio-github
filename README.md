@@ -1,2 +1,5 @@
-# dio-desafio-github
-Projeto de desafio DIO sobre Git/GitHub
+### Desafio DIO Git/GitHUb
+Repositório para primeiro desafio de projeto
+
+# Definições de TI para iniciantes
+
